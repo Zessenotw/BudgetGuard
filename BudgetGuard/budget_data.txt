@@ -1,0 +1,6 @@
+DATE|2026-11-26
+POOL|0.0
+FIXED|rent|0.0
+FLEX|food|1470000.0|true|50000.0|30000.0|0
+FLEX|entertainment|0.0|false|0.0|10000.0|0
+FIXED|savings|1000000.0
